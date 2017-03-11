@@ -1,0 +1,6 @@
+usage
+----------------
+
+gcc SAmult-booth-cca.c CCAdder.c -o SAmult-booth -lm 
+
+./SAmult-booth
