@@ -1,6 +1,4 @@
-
-Shift-Add multiplier with Booth Algorithm for shift-over
-and Carry Completion Adder for the Add/Subtract
+Shift-Add multiplier with Booth Algorithm for shift-over and Carry Completion Adder for the Add/Subtract
 ---------------------------------------------------------
 SAmult-booth is a program used to multiply two N-bit
 numbers using shift and add method (shift-over 0's and
@@ -22,9 +20,15 @@ usage file is included in the repo.
 List of files in this repo:
 
 --> usage.txt :                        Description of how to compile and run
+
 --> Shift-Add-mult-Booth-diagram.png : Algorithm Diagram
+
 --> SAmult-booth-cca.c :               Simulation source file
+
 --> CCAdder.h :                        Carry Completion header file
+
 --> CCAdder.c :                        Carry Completion methods
+
 --> run.txt :                          Typical output
+
 --> README.md :                        This readme file
